@@ -8,6 +8,5 @@ def solution(x: np.array) -> float:
     # Измените код этой функции
     # Это будет вашим решением
     # Не меняйте название функции и её аргументы
-    def solution(x: np.array) -> float:
     lamb_da = (np.mean(x)*2)/(8100)
     return lamb_da # Ваш ответ
